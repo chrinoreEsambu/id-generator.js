@@ -1,5 +1,5 @@
 
-## Proposition 3 : Version courte pour un petit projet
+## Student ID Generator
 ```markdown
 # Student Code Generator
 
